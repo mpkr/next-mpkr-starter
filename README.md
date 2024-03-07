@@ -1,6 +1,11 @@
-This is my [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is my [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with prettier tailwind css + shadcn-ui.
 
 ## Getting Started
+
+Create new project
+```bash
+npx create-next-app --example https://github.com/mpkr/next-mpkr-starter <YOUR_APP_NAME>
+```
 
 First, install dependencies:
 ```bash
