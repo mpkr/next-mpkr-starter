@@ -3,13 +3,21 @@ This is my [Next.js](https://nextjs.org/) project bootstrapped with [`create-nex
 ## Getting Started
 
 Create new project
+
 ```bash
 npx create-next-app --example https://github.com/mpkr/next-mpkr-starter <YOUR_APP_NAME>
 ```
 
 First, install dependencies:
+
 ```bash
 npm i
+```
+
+Upgrade NextJs if needed
+
+```bash
+npm i next@latest react@latest react-dom@latest eslint-config-next@latest
 ```
 
 then run the development server:
